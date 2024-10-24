@@ -1,0 +1,2 @@
+# regai
+finanzas con ai
